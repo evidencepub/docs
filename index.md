@@ -16,8 +16,6 @@ Your launchpad to Evidence docs for authors, screeners, and developers.
 
 ![](https://raw.githubusercontent.com/evidencepub/brand/main/banner/png/banner_colored_patterned.png?raw=true)
 
-{button}`Latest publications <https://evidencepub.io>`
-
 +++ { "kind": "justified"}
 
 :::::{grid} 1 2 2 3
