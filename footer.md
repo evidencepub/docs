@@ -46,14 +46,15 @@ Evidence builds the future of publishing on open, transparent infrastructure.
 
 :::{div}
 
-**Funded by**
-- CONP
-- Brain Canada
+- **Funded by**
+- [CONP](https://conp.ca/)
+- [Brain Canada](https://braincanada.ca/)
   :::
 
 :::{div}
 
-- And what about a third
+- **Hosted by**
+- [Digital Research Alliance of Canada](https://www.alliancecan.ca/en)
   :::
 
 ::::

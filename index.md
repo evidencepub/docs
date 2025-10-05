@@ -8,11 +8,11 @@ site:
 
 +++ { "kind": "split-image" }
 
-Welcome
+Evidence
 
-## Evidence Docs
+## Documentation
 
-Trust, but verify.
+Your launchpad to Evidence docs for authors, screeners, and developers.
 
 ![](https://raw.githubusercontent.com/evidencepub/brand/main/banner/png/banner_colored_patterned.png?raw=true)
 
@@ -29,7 +29,7 @@ Trust, but verify.
 :height: 256px
 :::
 
-Prepare and submit an Evidence publication 
+Turn your GitHub repository into an executable Evidence article that brings together code, data, runtime, and prose, then submit it for publication.
 ::::
 
 ::::{card}
@@ -40,7 +40,7 @@ Prepare and submit an Evidence publication
 :height: 256px
 :::
 
-Guarantee publication functionality
+Guide authors through the publication workflow, ensuring that all Evidence articles maintain full functionality and meet core reproducibility standards. 
 ::::
 
 ::::{card}
@@ -51,29 +51,7 @@ Guarantee publication functionality
 :height: 256px
 :::
 
-Developer's corner
+Developer-focused documentation of the Evidence platform. Covers the complete stack, including deployment, architecture, web apps, databases, and all that jazz to maintain and improve this fully open-source beast.
 ::::
 
 :::::
-
-+++ {"kind": "logo-cloud"}
-
-Other projects you've heard of
-
-::::{grid} 1 2 3 3
-
-:::{figure} ./images/jupyter.png
-:height: 100px
-Jupyter
-:::
-
-:::{figure} ./images/nasa-tops.webp
-:height: 100px
-NASA TOPS
-:::
-
-:::{figure} ./images/nasa.webp
-:height: 100px
-NASA
-:::
-::::

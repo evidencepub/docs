@@ -1,10 +1,8 @@
-# See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
   title: Evidence Docs
   toc:
     - file: index.md
-    - file: other-page.md
 site:
   template: book-theme
   title: Evidence Docs
