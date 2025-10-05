@@ -29,7 +29,7 @@ Your launchpad to Evidence docs for authors, screeners, and developers.
 :height: 256px
 :::
 
-Turn your GitHub repository into an executable Evidence article that brings together code, data, runtime, and prose, then submit it for publication.
+Everything you need to build an executable Evidence article.
 ::::
 
 ::::{card}
@@ -40,7 +40,7 @@ Turn your GitHub repository into an executable Evidence article that brings toge
 :height: 256px
 :::
 
-Guide authors through the publication workflow, ensuring that all Evidence articles maintain full functionality and meet core reproducibility standards. 
+Learn how to guide authors through the publication workflow.
 ::::
 
 ::::{card}
@@ -51,7 +51,7 @@ Guide authors through the publication workflow, ensuring that all Evidence artic
 :height: 256px
 :::
 
-Developer-focused documentation of the Evidence platform. Covers the complete stack, including deployment, architecture, web apps, databases, and all that jazz to maintain and improve this fully open-source beast.
+Developer-focused documentation of the Evidence platform.
 ::::
 
 :::::
