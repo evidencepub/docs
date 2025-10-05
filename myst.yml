@@ -10,7 +10,7 @@ site:
   title: Evidence Docs
   options:
     favicon: favicon.ico
-    logo: site_logo.png
+    logo: logo.svg
     logo_text: Evidence Docs
     style: ./css/footer.css
   parts:

@@ -16,11 +16,9 @@ Trust, but verify.
 
 ![](https://raw.githubusercontent.com/evidencepub/brand/main/banner/png/banner_colored_patterned.png?raw=true)
 
-{button}`Available publications <https://evidencepub.io>`
+{button}`Latest publications <https://evidencepub.io>`
 
 +++ { "kind": "justified"}
-
-## Find your documentation
 
 :::::{grid} 1 2 2 3
 ::::{card}
