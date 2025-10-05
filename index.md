@@ -20,31 +20,40 @@ Trust, but verify.
 
 +++ { "kind": "justified"}
 
-Justified Block
-
 ## Find your documentation
 
-:::::{grid} 1 2 2 2
+:::::{grid} 1 2 2 3
 ::::{card}
-:url: https://next.juptyerbook.org
-:footer: Jupyter Book
+:url: https://author.evidencepub.io
+:footer: Author
 
-:::{image} ./images/jupyter-book.webp
+:::{image} ./images/author.svg
 :height: 256px
 :::
 
-Jupyter Book Documentation
+Guide for Authors
 ::::
 
 ::::{card}
-:url: https://mystmd.org
-:footer: MyST Markdown
+:url: https://screener.evidencepub.io
+:footer: Screener
 
-:::{image} ./images/mystmd.svg
+:::{image} ./images/screener.svg
 :height: 256px
 :::
 
-MyST Documentation
+Handbook for Technical Screeners
+::::
+
+::::{card}
+:url: https://dev.evidencepub.io
+:footer: Developers
+
+:::{image} ./images/dev.svg
+:height: 256px
+:::
+
+Technical Documentation
 ::::
 
 :::::
@@ -70,35 +79,3 @@ NASA TOPS
 NASA
 :::
 ::::
-
-{button}`Our Funders<#>`
-
-+++ { "kind": "centered"}
-
-## Heading 1
-
-A wild caption appeared!
-
-### Heading 2
-
-{button}`Get started<#>` See more
-
-[Learn more]()
-
-+++ { "kind": "justified"}
-
-A subtitle?
-
-## Heading 1
-
-A wild caption appeared!
-
-### Heading 2
-
-{button}`Get started<#>` This is a description.
-
-[Learn more]()
-
-+++ { "kind": "no-such-block" }
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

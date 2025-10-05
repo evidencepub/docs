@@ -2,8 +2,6 @@
 version: 1
 project:
   title: Evidence Docs
-  abbreviations:
-    CSS: Cascading Style Sheet
   toc:
     - file: index.md
     - file: other-page.md
@@ -13,7 +11,7 @@ site:
   options:
     favicon: favicon.ico
     logo: site_logo.png
-    logo_text: Landing Pages
+    logo_text: Evidence Docs
     style: ./css/footer.css
   parts:
     footer: footer.md

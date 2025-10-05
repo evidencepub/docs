@@ -14,14 +14,14 @@
 
 ::::{div}
 
-# Landing Pages
+# Evidence
 
-```{image} https://jupyterbook.org/en/stable/_images/logo-square.svg
+```{image} https://raw.githubusercontent.com/evidencepub/brand/main/logo/svg/evidence_logo_white.svg
 :width: 50px
 :align: left
 ```
 
-This is a description of our project. And a [link to its homepage](https://github.com/jupyter-book/example-landing-pages).
+Evidence builds the future of publishing on open, transparent infrastructure.
 ::::
 
 <!-- Spacer between project description and links columns -->
@@ -39,15 +39,16 @@ This is a description of our project. And a [link to its homepage](https://githu
 
 :::{div}
 
-- [About](https://mystmd.org/overview/ecosystem)
-- [Guide](https://mystmd.org/guide)
-- [Sandbox](https://mystmd.org/sandbox)
+- [About](https://evidencepub.io/about)
+- [Templates](https://evidencepub.io/templates)
+- [GitHub](https://github.com/evidencepub)
   :::
 
 :::{div}
 
-- A second column!
-- With multiple entries
+**Funded by**
+- CONP
+- Brain Canada
   :::
 
 :::{div}
