@@ -23,35 +23,35 @@ Trust, but verify.
 :::::{grid} 1 2 2 3
 ::::{card}
 :url: https://author.evidencepub.io
-:footer: Author
+:footer: Guide for Authors
 
 :::{image} ./images/author.svg
 :height: 256px
 :::
 
-Guide for Authors
+Prepare and submit an Evidence publication 
 ::::
 
 ::::{card}
 :url: https://screener.evidencepub.io
-:footer: Screener
+:footer: Handbook for Technical Screeners
 
 :::{image} ./images/screener.svg
 :height: 256px
 :::
 
-Handbook for Technical Screeners
+Guarantee publication functionality
 ::::
 
 ::::{card}
 :url: https://dev.evidencepub.io
-:footer: Developers
+:footer: Technical Documentation
 
 :::{image} ./images/dev.svg
 :height: 256px
 :::
 
-Technical Documentation
+Developer's corner
 ::::
 
 :::::
