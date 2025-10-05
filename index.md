@@ -1,5 +1,5 @@
 ---
-title: Welcome to My Landing Page
+title: Evidence Documentation
 site:
   hide_title_block: true
   hide_toc: true
@@ -10,19 +10,19 @@ site:
 
 Welcome
 
-## Welcome to My Landing Page
+## Evidence Docs
 
-Accelerating discovery through better scientific communication tools.
+Trust, but verify.
 
-![](https://raw.githubusercontent.com/rowanc1/pics/refs/heads/main/banff-tall.png)
+![](https://raw.githubusercontent.com/evidencepub/brand/main/banner/png/banner_colored_patterned.png?raw=true)
 
-{button}`Documentation <https://mystmd.org/guide/website-landing-pages>`
+{button}`Available publications <https://evidencepub.io>`
 
 +++ { "kind": "justified"}
 
 Justified Block
 
-## Ready to dive right in?
+## Find your documentation
 
 :::::{grid} 1 2 2 2
 ::::{card}
