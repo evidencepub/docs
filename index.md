@@ -14,6 +14,11 @@ Evidence
 
 Your launchpad to Evidence docs for authors, screeners, and developers.
 
+:::{grid} 1 1 3 3
+{button}`Author <https://author.evidencepub.io>`
+{button}`Screener <https://screener.evidencepub.io>`
+{button}`Developer <https://dev.evidencepub.io>`
+:::
 ![](https://raw.githubusercontent.com/evidencepub/brand/main/banner/png/banner_colored_patterned.png)
 
 +++ {"kind":"justified"}

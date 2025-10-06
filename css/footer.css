@@ -16,6 +16,11 @@ body {
   padding-top: 3px;
 }
 
+a.button, cite.button a {
+  background-color: #6f00b7;
+  color: #37cae2;
+}
+
 .py-20{
   padding-top: 5px;
 }
