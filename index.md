@@ -10,46 +10,48 @@ site:
 
 Evidence
 
-## Documentation
+## Documentations
 
 Your launchpad to Evidence docs for authors, screeners, and developers.
 
-![](https://raw.githubusercontent.com/evidencepub/brand/main/banner/png/banner_colored_patterned.png?raw=true)
+![](https://raw.githubusercontent.com/evidencepub/brand/main/banner/png/banner_colored_patterned.png)
 
-+++ { "kind": "justified"}
++++ {"kind":"justified"}
 
 :::::{grid} 1 2 2 3
 ::::{card}
 :url: https://author.evidencepub.io
-:footer: Guide for Authors
+:header: Guide for Authors
 
 :::{image} ./images/author.svg
 :height: 256px
 :::
 
-Everything you need to build an executable Evidence article.
+Everything you need to build and publish an executable Evidence article.
 ::::
 
 ::::{card}
 :url: https://screener.evidencepub.io
-:footer: Handbook for Technical Screeners
+:header: Handbook for Technical Screeners
 
 :::{image} ./images/screener.svg
 :height: 256px
 :::
 
-Learn how to guide authors through the publication workflow.
+Learn how to guide authors through the publication workflow as a technical screener.
 ::::
 
 ::::{card}
 :url: https://dev.evidencepub.io
-:footer: Technical Documentation
+:header: Technical Documentation
 
 :::{image} ./images/dev.svg
 :height: 256px
 :::
 
-Developer-focused documentation of the Evidence platform.
+Developer-focused documentation of the Evidence platform. From infrastructure to web apps.
 ::::
 
 :::::
+
++++

@@ -9,7 +9,7 @@ site:
   options:
     favicon: favicon.ico
     logo: logo.svg
-    logo_text: Evidence Docs
+    logo_text: Evidence Documentations
     style: ./css/footer.css
   parts:
     footer: footer.md

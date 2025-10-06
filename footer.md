@@ -14,19 +14,24 @@
 
 ::::{div}
 
-# Evidence
+:::{grid} 1 1 2 2
 
 ```{image} https://raw.githubusercontent.com/evidencepub/brand/main/logo/svg/evidence_logo_white.svg
-:width: 50px
-:align: left
+:width: 100px
+:align: right
 ```
 
-Evidence builds the future of publishing on open, transparent infrastructure.
+:::
+
+## Evidence Publication Platform
+
+Networked open science publising on open-source infrastructure.
 ::::
 
 <!-- Spacer between project description and links columns -->
 
 ::::{div}
+
 ::::
 
 <!-- Link columns -->
@@ -39,6 +44,7 @@ Evidence builds the future of publishing on open, transparent infrastructure.
 
 :::{div}
 
+- [Latest Publications](https://evidencepub.io)
 - [About](https://evidencepub.io/about)
 - [Templates](https://evidencepub.io/templates)
 - [GitHub](https://github.com/evidencepub)
