@@ -29,7 +29,7 @@ Your launchpad to Evidence docs for authors, screeners, and developers.
 :header: Guide for Authors
 
 :::{image} ./images/author.svg
-:height: 256px
+:height: 200px
 :::
 
 Everything you need to build and publish an executable Evidence article.
@@ -40,7 +40,7 @@ Everything you need to build and publish an executable Evidence article.
 :header: Handbook for Technical Screeners
 
 :::{image} ./images/screener.svg
-:height: 256px
+:height: 200px
 :::
 
 Learn how to guide authors through the publication workflow as a technical screener.
@@ -51,7 +51,7 @@ Learn how to guide authors through the publication workflow as a technical scree
 :header: Technical Documentation
 
 :::{image} ./images/dev.svg
-:height: 256px
+:height: 200px
 :::
 
 Developer-focused documentation of the Evidence platform. From infrastructure to web apps.
